@@ -47,14 +47,15 @@ My journey in information technology systems has sparked a strong passion for cy
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS Certified Security- Specialty-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20Security%20Specialty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/-CASP%2B-FF6F00?style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CISSP-003366?style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- xxx
+- xxx
 -->
