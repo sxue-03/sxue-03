@@ -50,6 +50,15 @@ I am preparing for a role in a **Security Operations Center (SOC)** as a **Tier 
 
 ---
 
+## 🪪 Certifications
+<div>
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20Certified%20Security%20Specialty-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20CASP%2B%20(In%20Progress)-FF6F00?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+---
+
 ## 📁 Projects (high level)
 - `soc-lab/` — SIEM setup, detection rules, IR playbooks, sample alerts.  
 - `log-analyzer/` — Python analyzer to detect brute-force and produce alerts.  
@@ -78,12 +87,11 @@ For each claimed skill I include:
 **Shuming Xue**  
 📍 Austin, TX  
 🔗 [LinkedIn](https://linkedin.com/in/shuming-xue)  
-✉️ your.email@example.com
+✉️ Shuming.xue3@gmail.com
 
 ---
 
 *© 2025 Shuming Xue · MIT License*
-
 
 ---
 
@@ -92,4 +100,5 @@ For each claimed skill I include:
    ```bash
    git clone https://github.com/sxue-03/sxue-03.git
    cd sxue-03
+
 
