@@ -1,30 +1,32 @@
-# Hello, I'm Shuming
-<a href="linkedin.com/in/shuming-xue"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Shuming 👋
+<a href="https://linkedin.com/in/shuming-xue"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my Cybersecurity Portfolio Project! This repository is part of my ongoing journey to deepen my knowledge and skills in cybersecurity. Here, I explore various concepts and tools through hands-on projects—ranging from network security and intrusion detection to vulnerability assessments and incident response.
+Welcome to my **Cybersecurity Portfolio Project!**  
+This repository documents my hands-on learning journey in cybersecurity—covering topics like network defense, intrusion detection, vulnerability assessment, and incident response.  
+Each lab demonstrates practical skills and professional-grade deliverables that align with real SOC workflows.
 
-My goal is to showcase practical implementations and document what I’ve learned along the way. I hope this not only demonstrates my technical abilities but also serves as a resource for others interested in cybersecurity.
+---
 
+## 🎯 Objective
+My background in information technology has sparked a strong passion for cybersecurity, and I’m now pursuing a career in a **Security Operations Center (SOC)** as a **Tier 1 Security Analyst**.  
+This portfolio shows how I’m developing and applying the technical and analytical skills required to protect critical systems from evolving cyber threats.
 
-## Objective
+---
 
+## 🧠 Skills and Associated Projects
 
-My journey in information technology systems has sparked a strong passion for cybersecurity, and I am now eager to transition into this dynamic field. I am specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I can apply my technical skills, continue learning, and contribute to protecting critical systems from evolving cyber threats.
+| Skill | Associated Project |
+|--------|--------------------|
+| SIEM Implementation & Log Analysis | [SOC Lab](#-project-1-soc-lab) |
+| Network Traffic Monitoring & Attack Detection | [SOC Lab](#-project-1-soc-lab) |
+| Security Automation (Python / SOAR) | [Log Analyzer](#-project-2-log-analyzer) |
+| Incident Response & Playbook Design | [SOC Lab](#-project-1-soc-lab) |
+| Penetration Testing & Vulnerability Assessment | [PenTest Lab](#-project-3-pentest-lab) |
+| Policy Writing & Governance | [Security Policies](#-project-4-security-policy-pack) |
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+---
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## 🧰 Tools
 
 ### Network
 <div>
@@ -44,18 +46,71 @@ My journey in information technology systems has sparked a strong passion for cy
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-7431F9?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
-## Certifications
-
+### Scripting / Automation
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS%20Security%20Specialty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/-CASP%2B-FF6F00?style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CISSP-003366?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
-## Projects
-- xxx
-- xxx
--->
+---
+
+## 🧾 Certifications
+<div>
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20Security%20Specialty-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/-CASP%2B%20(Studying)-FF6F00?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+---
+
+## 🧩 Projects
+
+### 🔹 Project 1: SOC Lab
+Hands-on **Security Operations Center** environment using Wazuh / Splunk.  
+Simulates detection of brute-force and privilege-escalation attacks.  
+Includes:
+- SIEM setup on Ubuntu 22.04 (Linux)
+- Windows Agent log collection
+- Detection Rules and IR Playbooks
+
+📁 Folder: `soc-lab/`  
+📘 Deliverables: architecture diagram, detection rules, incident report (PDF)
+
+---
+
+### 🔹 Project 2: Log Analyzer
+Python-based tool to parse and analyze system logs.  
+Detects repeated failed logins and off-hours activity.  
+
+📁 Folder: `log-analyzer/`  
+📘 Deliverables: `analyzer.py`, sample logs, alerts CSV, visual output charts
+
+---
+
+### 🔹 Project 3: PenTest Lab
+Local pentesting environment (Metasploitable 2, DVWA, OWASP Juice Shop).  
+Demonstrates reconnaissance, exploitation, and mitigation recommendations.  
+
+📁 Folder: `pentest-lab/`  
+📘 Deliverables: vulnerability report (PDF), screenshots, attack maps
+
+---
+
+### 🔹 Project 4: Security Policy Pack
+Professional security policy documents aligned with NIST and ISO 27001.  
+Includes Incident Response, Logging & Monitoring, and Vulnerability Management policies.  
+
+📁 Folder: `policies/`  
+📘 Deliverables: policy PDFs and executive summary
+
+---
+
+## 🚀 How to Use This Repository
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/sxue-03/sxue-03.git
+   cd sxue-03
+
