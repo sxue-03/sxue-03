@@ -1,110 +1,89 @@
 # Hello, I'm Shuming Xue
 <a href="https://linkedin.com/in/shuming-xue"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my **Cybersecurity Portfolio Project!**  
-This repository documents my hands-on learning journey in cybersecurity—covering topics like network defense, intrusion detection, vulnerability assessment, and incident response.  
-Each lab demonstrates practical skills and professional-grade deliverables that align with real SOC workflows.
+Welcome to my **Cybersecurity Portfolio** — hands-on labs and artifacts that document how I'm learning and applying SOC, detection engineering, automation, and security governance.
 
 ---
 
 ## 🎯 Objective
-My background in information technology has sparked a strong passion for cybersecurity, and I’m now pursuing a career in a **Security Operations Center (SOC)** as a **Tier 1 Security Analyst**.  
-This portfolio shows how I’m developing and applying the technical and analytical skills required to protect critical systems from evolving cyber threats.
+I am preparing for a role in a **Security Operations Center (SOC)** as a **Tier 1 Security Analyst**. This repository shows practical labs and scripts that demonstrate my current skills and learning path.
 
 ---
 
-## 🧠 Skills and Associated Projects
+## 🧠 Skills & Tools (honest & evidence-linked)
 
-| Skill | Associated Project |
-|--------|--------------------|
-| SIEM Implementation & Log Analysis | [SOC Lab](#-project-1-soc-lab) |
-| Network Traffic Monitoring & Attack Detection | [SOC Lab](#-project-1-soc-lab) |
-| Security Automation (Python / SOAR) | [Log Analyzer](#-project-2-log-analyzer) |
-| Incident Response & Playbook Design | [SOC Lab](#-project-1-soc-lab) |
-| Penetration Testing & Vulnerability Assessment | [PenTest Lab](#-project-3-pentest-lab) |
-| Policy Writing & Governance | [Security Policies](#-project-4-security-policy-pack) |
+> Items marked **(evidence)** link to a project folder or file that shows the work.
 
----
+### Core / Proficient
+- **Python** — *Proficient* — wrote `log-analyzer/analyzer.py` to parse auth logs and generate alerts. (see `log-analyzer/`)  
+- **Bash** — *Familiar* — used for VM setup scripts and automation in lab notes. (see `soc-lab/setup/`)  
+- **SIEM (Wazuh / Elastic)** — *Working knowledge* — deployed Wazuh All-in-One and ingested host logs. (see `soc-lab/`)
 
-## 🧰 Tools
+### Detection & Response
+- **Log analysis** — *Proficient* — parsing, aggregation, simple alerting (see `log-analyzer/`).  
+- **Incident Response (IR)** — *Familiar* — IR playbooks and an example incident report in `soc-lab/incident-playbooks/`.  
+- **Penetration testing (lab)** — *Familiar* — local recon and exploit writeups against Metasploitable / DVWA (see `pentest-lab/findings/`).
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-7431F9?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-</div>
+### Policy & Governance
+- **Security Policy Writing** — *Working knowledge* — NIST-aligned policy drafts in `policies/` (IR, Logging, Vulnerability Mgmt).  
+- **Risk Assessment** — *Familiar* — basic asset & threat scoring with mitigation plans (see `policies/risk-assessment.md`).
 
 ### Scripting / Automation
-<div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</div>
+- **Automation with Python** — *Proficient* — scheduled log parsing, CSV/alert export (see `log-analyzer/`).  
+- **Small tooling** — *Familiar* — helper scripts for lab setup and result parsing (see `scripts/`).
 
 ---
 
-## 🧾 Certifications
-<div>
-<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS%20Security%20Specialty-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/-CASP%2B%20(Studying)-FF6F00?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
+## 🧰 Tools (what I currently use)
+- **SIEM / Logging:** Wazuh, Elastic (ELK) — working knowledge.  
+- **Pentest / Recon:** nmap, Metasploit (lab use) — familiar.  
+- **Forensics / Sysadmin:** Procmon export, Windows Event log exports — familiar.  
+- **Development:** Python, Bash — used for automation and parsing.
 
 ---
 
-## 🧩 Projects
+## ⚠️ Network & Endpoint
+> These two areas are intentionally left blank for now — I will update with concrete items and evidence as I build and document labs.
 
-### 🔹 Project 1: SOC Lab
-Hands-on **Security Operations Center** environment using Wazuh / Splunk.  
-Simulates detection of brute-force and privilege-escalation attacks.  
-Includes:
-- SIEM setup on Ubuntu 22.04 (Linux)
-- Windows Agent log collection
-- Detection Rules and IR Playbooks
-
-📁 Folder: `soc-lab/`  
-📘 Deliverables: architecture diagram, detection rules, incident report (PDF)
+- **Network:** *(to be added — learning path & evidence pending)*  
+- **Endpoint:** *(to be added — learning path & evidence pending)*
 
 ---
 
-### 🔹 Project 2: Log Analyzer
-Python-based tool to parse and analyze system logs.  
-Detects repeated failed logins and off-hours activity.  
-
-📁 Folder: `log-analyzer/`  
-📘 Deliverables: `analyzer.py`, sample logs, alerts CSV, visual output charts
-
----
-
-### 🔹 Project 3: PenTest Lab
-Local pentesting environment (Metasploitable 2, DVWA, OWASP Juice Shop).  
-Demonstrates reconnaissance, exploitation, and mitigation recommendations.  
-
-📁 Folder: `pentest-lab/`  
-📘 Deliverables: vulnerability report (PDF), screenshots, attack maps
+## 📁 Projects (high level)
+- `soc-lab/` — SIEM setup, detection rules, IR playbooks, sample alerts.  
+- `log-analyzer/` — Python analyzer to detect brute-force and produce alerts.  
+- `pentest-lab/` — Local pentest targets (Metasploitable, DVWA) with findings.  
+- `policies/` — NIST-aligned policy pack and risk assessment workbook.  
+- `scripts/` — helper scripts and small automation utilities.
 
 ---
 
-### 🔹 Project 4: Security Policy Pack
-Professional security policy documents aligned with NIST and ISO 27001.  
-Includes Incident Response, Logging & Monitoring, and Vulnerability Management policies.  
+## ✅ How I show evidence
+For each claimed skill I include:
+- A short README inside the project folder describing the lab steps and commands.  
+- Artifacts: screenshots, exported logs, `nmap` outputs, CSVs, and PDF reports.  
+- A dated learning log entry (see `docs/learning-log.md`) summarizing experiments and results.
 
-📁 Folder: `policies/`  
-📘 Deliverables: policy PDFs and executive summary
+---
+
+## 📚 Current study plan (next steps)
+- Add Network mini-labs: Wireshark pcap walkthrough, `nmap` reconnaissance report, Suricata alert example.  
+- Add Endpoint mini-labs: Procmon trace, PowerShell event export, Velociraptor quick hunt.  
+- For each mini-lab I’ll commit screenshots, raw outputs, and a 1-page summary so I can update the Network & Endpoint sections with evidence.
+
+---
+
+## 📫 Contact
+**Shuming Xue**  
+📍 Austin, TX  
+🔗 [LinkedIn](https://linkedin.com/in/shuming-xue)  
+✉️ your.email@example.com
+
+---
+
+*© 2025 Shuming Xue · MIT License*
+
 
 ---
 
