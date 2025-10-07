@@ -35,15 +35,13 @@ I am preparing for a role in a **Security Operations Center (SOC)** as a **Tier 
 ---
 
 ## 🧰 Tools (what I currently use)
-- **SIEM / Logging:** Wazuh, Elastic (ELK) — working knowledge.  
-- **Pentest / Recon:** nmap, Metasploit (lab use) — familiar.  
-- **Forensics / Sysadmin:** Procmon export, Windows Event log exports — familiar.  
+- **SIEM / Logging:** Wazuh, Elastic (ELK) — working knowledge.    
 - **Development:** Python, Bash — used for automation and parsing.
 
 ---
 
 ## ⚠️ Network & Endpoint
-> These two areas are intentionally left blank for now — I will update with concrete items and evidence as I build and document labs.
+I will update with concrete items and evidence as I build and document labs.
 
 - **Network:** *(to be added — learning path & evidence pending)*  
 - **Endpoint:** *(to be added — learning path & evidence pending)*
