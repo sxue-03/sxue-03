@@ -38,7 +38,7 @@ Currently expanding my skills in **SIEM monitoring**, **Python log analysis**, a
 
 ---
 
-## Projects
+## ⭐Projects
 ### **1. Log Analyzer (Python)**
 A Python script that parses authentication logs and identifies repeated failed logins.  
 📁 `log-analyzer/` — includes code, sample logs, and example output.
@@ -52,7 +52,7 @@ An internal HubSpot CRM automation app built with JavaScript + REST APIs, integr
 
 ---
 
-## 📚 Learning Roadmap (Next Steps)
+## Learning Roadmap (Next Steps)
 - Finish Wazuh SIEM use-case detections (failed login, privilege escalation)  
 - Build Power BI dashboard for event visualization  
 - Explore Suricata and Zeek for network visibility  
