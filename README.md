@@ -1,50 +1,56 @@
-# Hello, I'm Shuming Xue
+# Hello, I'm Shuming 👋
 <a href="https://linkedin.com/in/shuming-xue"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/sxue-03"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
-Welcome to my **Cybersecurity Portfolio** — hands-on labs and artifacts that document how I'm learning and applying SOC, detection engineering, automation, and security governance.
+Welcome to my **Cybersecurity & IT Portfolio** — a collection of projects and labs documenting my journey from IT operations to cybersecurity analysis.  
+This repository focuses on automation, detection, and hands-on learning while building a foundation for Security Operations Center (SOC) work.
 
 ---
 
 ## 🎯 Objective
-I am preparing for a role in a **Security Operations Center (SOC)** as a **Tier 1 Security Analyst**. This repository shows practical labs and scripts that demonstrate my current skills and learning path.
+I’m an **IT and cybersecurity professional** with hands-on experience in system administration, scripting, and security tooling.  
+Currently expanding my skills in **SIEM monitoring**, **Python log analysis**, and **incident detection** — with the goal of becoming a **Tier 1 SOC Analyst**.
 
 ---
 
-## 🧠 Skills & Tools (honest & evidence-linked)
-
-> Items marked **(evidence)** link to a project folder or file that shows the work.
-
-### Core / Proficient
-- **Python** — *Proficient* — wrote `log-analyzer/analyzer.py` to parse auth logs and generate alerts. (see `log-analyzer/`)  
-- **Bash** — *Familiar* — used for VM setup scripts and automation in lab notes. (see `soc-lab/setup/`)  
-- **SIEM (Wazuh / Elastic)** — *Working knowledge* — deployed Wazuh All-in-One and ingested host logs. (see `soc-lab/`)
-
-### Detection & Response
-- **Log analysis** — *Proficient* — parsing, aggregation, simple alerting (see `log-analyzer/`).  
-- **Incident Response (IR)** — *Familiar* — IR playbooks and an example incident report in `soc-lab/incident-playbooks/`.  
-- **Penetration testing (lab)** — *Familiar* — local recon and exploit writeups against Metasploitable / DVWA (see `pentest-lab/findings/`).
-
-### Policy & Governance
-- **Security Policy Writing** — *Working knowledge* — NIST-aligned policy drafts in `policies/` (IR, Logging, Vulnerability Mgmt).  
-- **Risk Assessment** — *Familiar* — basic asset & threat scoring with mitigation plans (see `policies/risk-assessment.md`).
-
-### Scripting / Automation
-- **Automation with Python** — *Proficient* — scheduled log parsing, CSV/alert export (see `log-analyzer/`).  
-- **Small tooling** — *Familiar* — helper scripts for lab setup and result parsing (see `scripts/`).
+## 🧠 Current Focus
+- Building a small-scale SOC environment using Wazuh (SIEM)  
+- Writing Python scripts for log analysis and security automation  
+- Strengthening cloud security and IAM knowledge (AWS Security Specialty)  
+- Learning Windows event logging, Sysmon, and basic packet analysis  
 
 ---
 
-## 🧰 Tools (what I currently use)
-- **SIEM / Logging:** Wazuh, Elastic (ELK) — working knowledge.    
-- **Development:** Python, Bash — used for automation and parsing.
+## 🧰 Tools & Technologies (current proficiency)
+| Category | Tools |
+|-----------|-------|
+| **Security / SIEM** | Wazuh, Splunk (learning), AWS Security Hub |
+| **Programming / Scripting** | Python (proficient), JavaScript (familiar) |
+| **Automation / Dev Tools** | REST APIs, Bash, Git |
+| **Data & Visualization** | Power BI, Excel, Tableau |
+| **Systems & Cloud** | macOS, Windows, AWS, ServiceNow |
 
 ---
 
-## ⚠️ Network & Endpoint
-I will update with concrete items and evidence as I build and document labs.
+## 🧩 Projects
+### **1. Log Analyzer (Python)**
+A Python script that parses authentication logs and identifies repeated failed logins.  
+📁 `log-analyzer/` — includes code, sample logs, and example output.
 
-- **Network:** *(to be added — learning path & evidence pending)*  
-- **Endpoint:** *(to be added — learning path & evidence pending)*
+### **2. SOC Lab (Wazuh)**
+Setting up a basic SIEM environment to collect and visualize security events.  
+📁 `soc-lab/` — installation notes, screenshots, and first detection rules.
+
+### **3. Data Doctor**
+An internal HubSpot CRM automation app built with JavaScript + REST APIs, integrated with Asana to automate issue routing.
+
+---
+
+## 📚 Learning Roadmap (Next Steps)
+- Finish Wazuh SIEM use-case detections (failed login, privilege escalation)  
+- Build Power BI dashboard for event visualization  
+- Explore Suricata and Zeek for network visibility  
+- Practice incident reporting using MITRE ATT&CK mapping  
 
 ---
 
@@ -52,51 +58,20 @@ I will update with concrete items and evidence as I build and document labs.
 <div>
 <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS%20Certified%20Security%20Specialty-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA%20CASP%2B%20(In%20Progress)-FF6F00?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CASP%2B%20(In%20Progress)-FF6F00?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
-
----
-
-## 📁 Projects (high level)
-- `soc-lab/` — SIEM setup, detection rules, IR playbooks, sample alerts.  
-- `log-analyzer/` — Python analyzer to detect brute-force and produce alerts.  
-- `pentest-lab/` — Local pentest targets (Metasploitable, DVWA) with findings.  
-- `policies/` — NIST-aligned policy pack and risk assessment workbook.  
-- `scripts/` — helper scripts and small automation utilities.
-
----
-
-## ✅ How I show evidence
-For each claimed skill I include:
-- A short README inside the project folder describing the lab steps and commands.  
-- Artifacts: screenshots, exported logs, `nmap` outputs, CSVs, and PDF reports.  
-- A dated learning log entry (see `docs/learning-log.md`) summarizing experiments and results.
-
----
-
-## 📚 Current study plan (next steps)
-- Add Network mini-labs: Wireshark pcap walkthrough, `nmap` reconnaissance report, Suricata alert example.  
-- Add Endpoint mini-labs: Procmon trace, PowerShell event export, Velociraptor quick hunt.  
-- For each mini-lab I’ll commit screenshots, raw outputs, and a 1-page summary so I can update the Network & Endpoint sections with evidence.
 
 ---
 
 ## 📫 Contact
 **Shuming Xue**  
 📍 Austin, TX  
-🔗 [LinkedIn](https://linkedin.com/in/shuming-xue)  
-✉️ Shuming.xue3@gmail.com
+📧 [shuming.xue3@gmail.com](mailto:shuming.xue3@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/shuming-xue)
 
 ---
 
-*© 2025 Shuming Xue · MIT License*
+_© 2025 Shuming Xue — Continuous learning, continuous improvement._
 
----
-
-## 🚀 How to Use This Repository
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/sxue-03/sxue-03.git
-   cd sxue-03
 
 
