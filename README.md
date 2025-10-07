@@ -1,4 +1,4 @@
-# Hello, I'm Shuming 👋
+# Hello, I'm Shuming Xue
 <a href="https://linkedin.com/in/shuming-xue"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/sxue-03"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
