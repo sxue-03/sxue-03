@@ -3,13 +3,15 @@
 <a href="https://github.com/sxue-03"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
 Welcome to my **Cybersecurity & IT Portfolio** — a collection of projects and labs documenting my journey from IT operations to cybersecurity analysis.  
+
 This repository focuses on automation, detection, and hands-on learning while building a foundation for Security Operations Center (SOC) work.
 
 ---
 
 ## 🎯 Objective
 I’m an **IT and cybersecurity professional** with hands-on experience in system administration, scripting, and security tooling.  
-Currently expanding my skills in **SIEM monitoring**, **Python log analysis**, and **incident detection** — with the goal of becoming a **Tier 1 SOC Analyst**.
+
+Currently expanding my skills in **SIEM monitoring**, **Python log analysis**, and **incident detection** — with the goal of becoming a **SOC Analyst**.
 
 ---
 
