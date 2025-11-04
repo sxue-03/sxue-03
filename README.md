@@ -56,14 +56,6 @@ An internal HubSpot CRM automation app built with JavaScript + REST APIs, integr
 
 ---
 
-## Learning Roadmap (Next Steps)
-- Complete Wazuh detection use cases (failed logins, privilege escalation)  
-- Build Power BI dashboard for event visualization  
-- Explore Suricata and Zeek for network visibility  
-- Practice incident reporting using MITRE ATT&CK mapping  
-
----
-
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -71,6 +63,14 @@ An internal HubSpot CRM automation app built with JavaScript + REST APIs, integr
 <img src="https://img.shields.io/badge/-CASP%2B%20(In%20Progress)-FF6F00?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
+---
+
+
+## Learning Roadmap (Next Steps)
+- Complete Wazuh detection use cases (failed logins, privilege escalation)  
+- Build Power BI dashboard for event visualization  
+- Explore Suricata and Zeek for network visibility  
+- Practice incident reporting using MITRE ATT&CK mapping  
 ---
 
 ## 📫 Contact
