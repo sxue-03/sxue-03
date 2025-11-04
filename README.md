@@ -8,7 +8,7 @@ This repository focuses on automation, detection, and hands-on learning while bu
 
 ---
 
-## 🎯 Objective
+## Objective
 I’m an **IT and cybersecurity professional** with hands-on experience in system administration, scripting, and security tooling.  
 
 Currently expanding my skills in **SIEM monitoring**, **Python log analysis**, and **incident detection** — with the goal of becoming a **SOC Analyst**.
@@ -64,7 +64,7 @@ An internal HubSpot CRM automation app built with JavaScript + REST APIs, integr
 
 ---
 
-## 🪪 Certifications
+## Certifications
 <div>
 <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS%20Certified%20Security%20Specialty-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
