@@ -55,7 +55,6 @@ An internal HubSpot CRM automation app built with JavaScript + REST APIs, integr
 
 ---
 
----
 
 ## Current Focus
 - Building a small-scale SOC environment using Wazuh (SIEM)  
