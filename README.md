@@ -13,15 +13,7 @@ I’m an **IT and cybersecurity professional** with hands-on experience in syste
 
 Currently expanding my skills in **SIEM monitoring**, **Python log analysis**, and **incident detection** — with the goal of becoming a **SOC Analyst**.
 
----
 
-## Current Focus
-- Building a small-scale SOC environment using Wazuh (SIEM)  
-- Writing Python scripts for log analysis and security automation  
-- Strengthening cloud security and IAM knowledge (AWS and Azure)  
-- Learning Windows event logging, Sysmon, and basic packet analysis  
-
----
 
 ## Tools & Technologies
 
@@ -32,8 +24,6 @@ Currently expanding my skills in **SIEM monitoring**, **Python log analysis**, a
 | **Cloud & Automation** | <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/-REST%20APIs-6DB33F?&style=for-the-badge&logo=swagger&logoColor=white" /> |
 | **Data & Visualization** | <img src="https://img.shields.io/badge/-Power%20BI-F2C811?&style=for-the-badge&logo=Power%20BI&logoColor=black" /> <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/-Excel-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" /> |
 | **Systems & Platforms** | <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/-ServiceNow-00A9CE?&style=for-the-badge&logo=servicenow&logoColor=white" /> |
-
-
 
 
 ---
@@ -65,6 +55,15 @@ An internal HubSpot CRM automation app built with JavaScript + REST APIs, integr
 
 ---
 
+---
+
+## Current Focus
+- Building a small-scale SOC environment using Wazuh (SIEM)  
+- Writing Python scripts for log analysis and security automation  
+- Strengthening cloud security and IAM knowledge (AWS and Azure)  
+- Learning Windows event logging, Sysmon, and basic packet analysis  
+
+---
 
 ## Learning Roadmap (Next Steps)
 - Complete Wazuh detection use cases (failed logins, privilege escalation)  
