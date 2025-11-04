@@ -38,10 +38,14 @@ Currently expanding my skills in **SIEM monitoring**, **Python log analysis**, a
 
 ---
 
-## ⭐Projects
-### **1. Log Analyzer (Python)**
-A Python script that parses authentication logs and identifies repeated failed logins.  
-📁 `log-analyzer/` — includes code, sample logs, and example output.
+## Projects
+| Project | Description |
+|----------|-------------|
+| [Log Analyzer](https://github.com/sxue-03/Log-Analyzer) | Python script for authentication log analysis |
+| [SOC Lab](https://github.com/sxue-03/SOC-Lab) | Wazuh SIEM lab for event collection and alerting |
+| [Cloud Security Lab](https://github.com/sxue-03/Cloud-Security-Lab) | Azure IAM and Defender security lab |
+| [Policy Pack](https://github.com/sxue-03/Policy-Pack) | NIST-aligned security policies and playbooks |
+
 
 ### **2. SOC Lab (Wazuh)**
 Setting up a basic SIEM environment to collect and visualize security events.  
