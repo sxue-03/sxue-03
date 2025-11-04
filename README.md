@@ -41,8 +41,8 @@ Currently expanding my skills in **SIEM monitoring**, **Python log analysis**, a
 ## Projects
 | Project | Description |
 |----------|-------------|
-| [Log Analyzer](https://github.com/sxue-03/Log-Analyzer) | Python script for authentication log analysis |
 | [SOC Lab](https://github.com/sxue-03/SOC-Lab) | Wazuh SIEM lab for event collection and alerting |
+| [Log Analyzer](https://github.com/sxue-03/Log-Analyzer) | Python script for authentication log analysis |
 | [Cloud Security Lab](https://github.com/sxue-03/Cloud-Security-Lab) | Azure IAM and Defender security lab |
 | [Policy Pack](https://github.com/sxue-03/Policy-Pack) | NIST-aligned security policies and playbooks |
 
