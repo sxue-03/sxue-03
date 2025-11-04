@@ -57,7 +57,7 @@ An internal HubSpot CRM automation app built with JavaScript + REST APIs, integr
 ---
 
 ## Learning Roadmap (Next Steps)
-- Finish Wazuh SIEM use-case detections (failed login, privilege escalation)  
+- Complete Wazuh detection use cases (failed logins, privilege escalation)  
 - Build Power BI dashboard for event visualization  
 - Explore Suricata and Zeek for network visibility  
 - Practice incident reporting using MITRE ATT&CK mapping  
