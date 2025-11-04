@@ -18,7 +18,7 @@ Currently expanding my skills in **SIEM monitoring**, **Python log analysis**, a
 ## Current Focus
 - Building a small-scale SOC environment using Wazuh (SIEM)  
 - Writing Python scripts for log analysis and security automation  
-- Strengthening cloud security and IAM knowledge (AWS Security Specialty)  
+- Strengthening cloud security and IAM knowledge (AWS and Azure)  
 - Learning Windows event logging, Sysmon, and basic packet analysis  
 
 ---
