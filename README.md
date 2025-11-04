@@ -49,7 +49,7 @@ Currently expanding my skills in **SIEM monitoring**, **Python log analysis**, a
 
 ### **2. SOC Lab (Wazuh)**
 Setting up a basic SIEM environment to collect and visualize security events.  
-📁 `soc-lab/` — installation notes, screenshots, and first detection rules.
+`soc-lab/` — installation notes, screenshots, and first detection rules.
 
 ### **3. Data Doctor**
 An internal HubSpot CRM automation app built with JavaScript + REST APIs, integrated with Asana to automate issue routing.
