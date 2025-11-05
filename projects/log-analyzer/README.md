@@ -1,4 +1,4 @@
-# Log Analyzer (Python)
+![Alert CSV Screenshot](assets/alerts-sample.png)# Log Analyzer (Python)
 
 ## Objective
 Parse authentication logs and flag IPs with repeated failed logins (potential brute force).
