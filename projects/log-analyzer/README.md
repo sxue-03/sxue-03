@@ -14,3 +14,6 @@ Parse authentication logs and flag IPs with repeated failed logins (potential br
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt  # optional if you use pandas
 python analyzer.py
+## Output Example
+
+![Alert CSV Screenshot](assets/alerts-sample.png)
