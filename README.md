@@ -2,17 +2,13 @@
 <a href="https://linkedin.com/in/shuming-xue"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/sxue-03"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
-Welcome to my **Cybersecurity & IT Portfolio** — a collection of projects and labs documenting my journey from IT operations to cybersecurity analysis.  
+Welcome to my **Cybersecurity & IT Portfolio** — This portfolio documents my hands-on work in security automation, detection engineering, and IT security operations — built while transitioning from IT operations into a Security Analyst or Security Engineer role.
 
-This repository focuses on automation, detection, and hands-on learning while building a foundation for Security Operations Center (SOC) work.
 
 ---
 
 ## Objective
-I’m an **IT and cybersecurity professional** with hands-on experience in system administration, scripting, and security tooling.  
-
-Currently expanding my skills in **SIEM monitoring**, **Python log analysis**, and **incident detection** — with the goal of becoming a **SOC Analyst**.
-
+IT and cybersecurity professional with 3+ years of hands-on experience in IAM, endpoint security, vulnerability management, and security automation. Currently transitioning into a dedicated security role focused on Security Analysis and Security Engineering.
 
 
 ## Tools & Technologies
@@ -31,18 +27,8 @@ Currently expanding my skills in **SIEM monitoring**, **Python log analysis**, a
 ## Projects
 | Project | Description |
 |----------|-------------|
-| [SOC Lab](https://github.com/sxue-03/SOC-Lab) | Wazuh SIEM lab for event collection and alerting |
 | [Log Analyzer](https://github.com/sxue-03/Log-Analyzer) | Python script for authentication log analysis |
-| [Cloud Security Lab](https://github.com/sxue-03/Cloud-Security-Lab) | Azure IAM and Defender security lab |
-| [Policy Pack](https://github.com/sxue-03/Policy-Pack) | NIST-aligned security policies and playbooks |
 
-
-### **2. SOC Lab (Wazuh)**
-Setting up a basic SIEM environment to collect and visualize security events.  
-`soc-lab/` — installation notes, screenshots, and first detection rules.
-
-### **3. Data Doctor**
-An internal HubSpot CRM automation app built with JavaScript + REST APIs, integrated with Asana to automate issue routing.
 
 ---
 
@@ -56,19 +42,6 @@ An internal HubSpot CRM automation app built with JavaScript + REST APIs, integr
 ---
 
 
-## Current Focus
-- Building a small-scale SOC environment using Wazuh (SIEM)  
-- Writing Python scripts for log analysis and security automation  
-- Strengthening cloud security and IAM knowledge (AWS and Azure)  
-- Learning Windows event logging, Sysmon, and basic packet analysis  
-
----
-
-## Learning Roadmap (Next Steps)
-- Complete Wazuh detection use cases (failed logins, privilege escalation)  
-- Build Power BI dashboard for event visualization  
-- Explore Suricata and Zeek for network visibility  
-- Practice incident reporting using MITRE ATT&CK mapping  
 ---
 
 ## 📫 Contact
