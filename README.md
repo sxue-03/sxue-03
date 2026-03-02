@@ -40,7 +40,10 @@ IT and cybersecurity professional with 3+ years of hands-on experience in IAM, e
 </div>
 
 ---
-
+## Currently Working On
+- CASP+ certification
+- Building Python scripting skills for security automation
+- Expanding detection engineering knowledge
 
 ---
 
